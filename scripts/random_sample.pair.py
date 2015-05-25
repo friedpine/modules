@@ -1,4 +1,3 @@
-import subprocess
 import re
 import gzip
 import sys
